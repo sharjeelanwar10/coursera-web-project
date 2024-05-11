@@ -1,4 +1,4 @@
-# Portfolio Project Readme
+# Coursera Portfolio Project
 
 This project is a simple web project developed as part of a Coursera course. It features a portfolio website showcasing various products. Below is a brief overview of the project structure and styling.
 
